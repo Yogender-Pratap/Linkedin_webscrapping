@@ -14,8 +14,8 @@ PROFILE_URLS = [
 ]
 
 # Your LinkedIn login details
-EMAIL = "y905078@gmail.com"
-PASSWORD = "Yogender!#$123456"
+EMAIL = "enter your email id"
+PASSWORD = "your linkedin password which you use to login linkedin"
 
 def login(driver):
     driver.get("https://www.linkedin.com/login")
