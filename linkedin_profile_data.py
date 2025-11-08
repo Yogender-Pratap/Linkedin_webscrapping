@@ -6,11 +6,16 @@ from selenium.webdriver.chrome.options import Options
 
 # LinkedIn profile URLs
 PROFILE_URLS = [
-   "https://www.linkedin.com/in/tarushi-khanna-02102001/",
-    "https://www.linkedin.com/in/rayyanfarooq10/",
-    "https://www.linkedin.com/in/ankit-sharma-87a7b81b0/",
-    "https://www.linkedin.com/in/shubhanshu-dtu/",
-    "https://www.linkedin.com/in/abinash1997/",
+   "profile url 1",
+    "profile url 1",
+    "profile url 1",
+    "profile url 1",
+    "profile url 1", 
+   "profile url 1 ", 
+   "profile url 1", 
+   "profile url 1", 
+   "profile url 1", 
+   "profile url 1"
 ]
 
 # Your LinkedIn login details
