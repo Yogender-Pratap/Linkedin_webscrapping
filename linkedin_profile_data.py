@@ -7,15 +7,15 @@ from selenium.webdriver.chrome.options import Options
 # LinkedIn profile URLs
 PROFILE_URLS = [
    "profile url 1",
-    "profile url 1",
-    "profile url 1",
-    "profile url 1",
-    "profile url 1", 
-   "profile url 1 ", 
-   "profile url 1", 
-   "profile url 1", 
-   "profile url 1", 
-   "profile url 1"
+    "profile url 2",
+    "profile url 3",
+    "profile url 4",
+    "profile url 5", 
+   "profile url 6 ", 
+   "profile url 7", 
+   "profile url 8", 
+   "profile url 9", 
+   "profile url 10"
 ]
 
 # Your LinkedIn login details
